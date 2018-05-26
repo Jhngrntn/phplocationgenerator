@@ -11,7 +11,7 @@
 			
 			$country = array("United States", "France", "England", "Canada", "New Zealand", "Russia", "Norway", "Ukraine");
 			
-			$climate = array("deep the dead of winter", "amidst the heat of summer", "during the fall", "during the spring");
+			$climate = array("amidst the dead of winter", "amidst the heat of summer", "during the fall", "during the spring");
 			
 			$rand1 = array_rand($locale, 1);
 			$rand2 = array_rand($country, 1);
